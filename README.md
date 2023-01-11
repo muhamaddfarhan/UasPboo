@@ -10,6 +10,9 @@ Nama              dan          Nim
 
 3.Veronika Rustiani         312010325
 
+4.Rimba Wahyu Soga          312110595
+
+
 # TOOLS yang di gunakan
 
 Netbeans 15
